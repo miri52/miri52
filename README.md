@@ -2,9 +2,6 @@
 
 - I'm a self-taught React Frontend developer ⚡ 
 - I ❤️ languages. I speak Slovak, English, German, Italian, Portuguese, and JavaScript 😀
-- I’m currently working on [my online cookbook](https://miri52.github.io/miri-delish-vanilla/dist/) 🥙
-
-- Fun fact: I am a dog person whose heart has been stolen by a cat 🐱
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
